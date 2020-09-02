@@ -1,0 +1,22 @@
+{
+  "name": "ziko_discord",
+  "version": "1.0.0",
+  "description": "Un bot hecho para el uso de ziko_sendokame.",
+  "main": "ziko_discord.js",
+  "scripts": {
+    "test": "console.log(\"Hola\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssepi0l-pv/ayudando_viewers.git"
+  },
+  "author": "b0ssAT192",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ssepi0l-pv/ayudando_viewers/issues"
+  },
+  "homepage": "https://github.com/ssepi0l-pv/ayudando_viewers#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
