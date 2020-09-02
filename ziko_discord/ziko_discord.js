@@ -66,3 +66,16 @@ client.on('message', message => {
 
 
 client.login(token);
+
+/* 
+ * Espero de corazón que este código sea de tu agrado.
+ * Espero también que puedas aprender a usar los switches
+ * gracias a este código. Como ves, puedes llegar a compactar
+ * muchísimo el código. Pasamos de +240 líneas a solo 68 líneas.
+ * Puedes seguir añadiendo comandos, editar cosas, no sé, este 
+ * bot es tuyo, en esencia.
+ * 
+ * ¡Disfrutalo, amigo mío!
+ *
+ * twitch.tv/b0ssat192
+ */
