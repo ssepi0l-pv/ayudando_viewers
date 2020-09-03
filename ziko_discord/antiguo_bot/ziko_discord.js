@@ -264,3 +264,12 @@ client.on("message", (message) => {
  
  
  client.login("NzUwNTMxMDU5MTUzNjMzMjgw.X074hA.damwhC0fNcWbiKvaNMQXHU94woc");
+
+
+/* 
+ * 
+ * Muy bloated.
+ * Si quieres algunos cambios en el código nuevo,
+ * dimelo por stream :)
+ *
+ */
